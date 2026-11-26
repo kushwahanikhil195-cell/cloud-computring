@@ -15,7 +15,7 @@ http://44.202.198.233
 
 ## Presentation
 Google Slides:
-https://docs.google.com/presentation/d/1Wj6cEDur23PTqMUyJy0BrE6gv7ZNjFTJ/edit
+https://docs.google.com/presentation/d/1Wj6cEDur23PTqMUyJy0BrE6gv7ZNjFTJ/edit?slide=id.p1#slide=id.p1
 
 ## Technologies
 HTML, CSS, JavaScript, AWS
